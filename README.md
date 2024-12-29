@@ -18,7 +18,7 @@ This project explores key concepts in information security by implementing and a
 - Explored how unvalidated inputs can be exploited to manipulate database queries and developed methods to detect and prevent such attacks.
 
 ### 4. **Cross-Site Request Forgery (CSRF)**
-- Demonstrated how attackers can forge unauthorized actions on behalf of authenticated users and implemented countermeasures.
+- Demonstrating the vulnerability of web applications to Cross-Site Request Forgery (CSRF) attacks through a simulated banking system.
 
 ---
 
