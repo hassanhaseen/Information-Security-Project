@@ -10,6 +10,8 @@ This project demonstrates the vulnerabilities of web applications to **Cross-Sit
 The project simulates a simple banking system where users can transfer money. By crafting a malicious page, it demonstrates how an attacker can trick a logged-in user into performing unintended actions.
 
 ![Login Page Screenshot](https://i.imgur.com/gAGYCtJ.png)
+![CSRF Attack Page Screenshot](https://i.imgur.com/4RNy2iL.png)
+![Transfer Money Page Screenshot](https://i.imgur.com/Dhdac8A.png)
 ---
 
 ## Features
